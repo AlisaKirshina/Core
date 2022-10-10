@@ -8,6 +8,7 @@ public class DemoIf {
             System.out.println(number);
         }
         System.out.println("Урра!");
+        System.out.println("Урррррааааа!!!");
 
     }
 
