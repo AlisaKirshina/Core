@@ -9,6 +9,7 @@ public class DemoIf {
         }
         System.out.println("Урра!");
         System.out.println("Урррррааааа!!!");
+        System.out.println("Бляяяяяя!");
 
     }
 
